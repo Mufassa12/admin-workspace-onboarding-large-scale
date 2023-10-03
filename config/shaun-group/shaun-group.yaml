@@ -1,0 +1,6 @@
+organization: hcpco
+workspace_name: shaun-group
+create_project: false
+project_name: admin-project
+create_repo: false
+create_variable_set: false
