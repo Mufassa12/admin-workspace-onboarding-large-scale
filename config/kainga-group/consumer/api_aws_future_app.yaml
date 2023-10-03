@@ -1,7 +1,7 @@
 organization: hcpCo
 workspace_name: api-aws-future-app
 create_project: true
-project_name: Shaun AWS Projects
+project_name: KaingaOra AWS Projects
 create_repo: false
 create_variable_set: false
 workspace_auto_apply: true

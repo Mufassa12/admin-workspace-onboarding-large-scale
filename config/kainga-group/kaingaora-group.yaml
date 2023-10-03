@@ -1,0 +1,6 @@
+organization: hcpCo
+workspace_name: kaingaora-group
+create_project: true
+project_name: admin-project-kaingaaora
+create_repo: false
+create_variable_set: false
