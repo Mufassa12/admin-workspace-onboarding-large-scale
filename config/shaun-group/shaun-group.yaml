@@ -1,6 +1,6 @@
 organization: hcpCo
-workspace_name: shaun-group
+workspace_name: shaun-group-consumer-workspace
 create_project: true
-project_name: admin-project
+project_name: shaun-project
 create_repo: false
 create_variable_set: false
